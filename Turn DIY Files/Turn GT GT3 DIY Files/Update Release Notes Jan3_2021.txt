@@ -1,0 +1,8 @@
+January 3, 2021 Release (Version 1)
+- If you find any issues please e-mail support@turnracing.com and I'll do my best to fix and send out more updates
+- Updated front plate to have the shifter mount be M4x8mm spacing to match the Turn Shifters and Turn GT Barebones front plate available on the website.
+- Updated Bill of Materials
+- Added dxf file of the front plate
+- Added 1 to 1 scale A4 paper template
+- Added Personal Use License & Copyright
+
