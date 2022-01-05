@@ -1,0 +1,4 @@
+October 20, 2020 Update
+- Changed mounting bolt pattern to M4 x 8mm to be the same as the aluminum Turn Shifters
+- Added hex M3 nuts on adjustable Base Top
+- Replaced the Clevis pin with a M4 screw as they are much easier to source internationally

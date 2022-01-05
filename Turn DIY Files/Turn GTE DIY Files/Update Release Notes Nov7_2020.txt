@@ -1,0 +1,10 @@
+November 7, 2020 Update
+- Changed shifter mounting bolt pattern to M4 x 8mm to fit the aluminum Turn Shifters
+- Added the updated sticker sheet in Illustrator with cut lines as a seperate layer if you send it to a print shop to be printed and cut
+- Added the PNG sticker sheet with and without cut out lines in standard A4 printer paper if your printing on A4 vinyl sticker sheet
+- Added sticker sheet cutout lines in DXF if importing into Cricut or Silhoutte cutting machine
+- Added Templates of the Front Plate, Rear Plate and Suede cutouts in DXF and 1 to 1 scale A4 printer paper sizes
+- Upated Bill of Materials to include other shifter and push button options
+- Updated Personal Use License & Copyright (Pretty common sense, don't sell or share these files or designs please)
+
+If you find any more issues please e-mail support@turnracing.com and I'll do my best to fix and send out more updates

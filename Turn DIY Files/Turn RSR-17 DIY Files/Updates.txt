@@ -1,0 +1,2 @@
+July 25, 2020 Update
+- The M4 and M5 threads in the rear enclosure are now modeled into the .stl and .step files

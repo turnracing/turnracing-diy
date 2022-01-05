@@ -1,0 +1,7 @@
+January 9, 2021 Release (Version 1)
+- Added 3d shifter folder
+- Changed shifter bolt pattern to M4 x 8mm spacing to fit the Turn Shifters
+- Added DXF and 1 to 1 scale A4 paper template
+- Removed the bolt pattern for the Bodnar controller as some people prefer other controllers like an Arduino
+- If you find any issues please e-mail support@turnracing.com and I'll do my best to fix and send out more updates
+

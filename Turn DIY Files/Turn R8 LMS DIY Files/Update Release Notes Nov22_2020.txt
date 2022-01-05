@@ -1,0 +1,13 @@
+November 5, 2020 Update
+- Changed shifter mounting bolt pattern to M4 x 8mm to fit the aluminum Turn Shifters
+- Fixed the far left push button on the front plate. It was too far to the right and not symmetrical
+- Added the updated sticker sheet in Illustrator with cut lines as a seperate layer if you send it to a print shop to be printed and cut
+- Added the PNG sticker sheet with and without cut out lines in standard A4 printer paper if your printing on A4 vinyl sticker sheet
+- Added sticker sheet cutout lines in DXF if importing into Cricut or Silhoutte cutting machine
+- Upated Bill of Materials to include other push button options
+- Updated Personal Use License & Copyright (Pretty common sense, don't sell or share these files or designs please)
+
+November 22, 2020 Update
+-Fixed the mounting holes being too large for the R8 Front Plate DXF file.
+
+If you find any more issues please e-mail support@turnracing.com and I'll do my best to fix and send out more updates
